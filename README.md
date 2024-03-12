@@ -1,5 +1,5 @@
 # Empresa
-> Ties-General-Services
+> Laces-General-Services
 
 ## Missão
 * Qual é o negócio da empresa?
