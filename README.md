@@ -34,10 +34,10 @@
 >
 
 ## Valores
-1. 
-2. 
-3. 
-4. 
+1. Comprometimento com o cliente. 
+2. Excelência no trabalho. 
+3. Integridade ao cliente.
+4. A valorização dos funcionários. 
 5. 
 6. 
 7.
