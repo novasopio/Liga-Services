@@ -44,3 +44,7 @@
 8. 
 9.
 10.
+## Definição do projeto de Software 
+Resumo (3 linhas)
+Descrição detalhada do que o software fará, contendo Como o software funcionará? Quem é o usuário? Qual o diferencial? Por que o software é relevante? Em quais plataformas será lançado (ios, Android, Web)
+> Um aplicativo permite aos clientes agendar serviços de acordo com suas necessidades, recomendando prestadores de serviços com base em seu perfil e preferências. Os usuários podem selecionar e agendar facilmente, garantindo a disponibilidade com um pagamento antecipado. Casas e "pequenas empresas". Serviços de urgência podem ser solicitados. Pois ofereceriam uma melhoria na eficiência operacional. Plataformas ios e Android.
