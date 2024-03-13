@@ -25,13 +25,13 @@
 > 3 anos.
 
 * Escreva como você gostaria que sua empresa estivesse no final desse período.
->
+> Uma empresa com reconhecimento no mercado e com novas inovações, como a disponibilidade de usar AI para aprimoramento as recomendações de discussões dos serviços.
 
 * Elabore uma frase curta que representa os aspectos definidos de maneira clara e objetiva.
->
+> Nossa visão é disponibilizar serviços de modo que todos possam utilizar a plataforma de maneira segura e eficaz. 
 
 * Valide a visão a todos os participantes e interessados.
->
+> Uma continua pesquisa de mercado para atender as tendências atuais e entender as expectativas e preferências dos clientes. 
 
 ## Valores
 1. Comprometimento com o cliente. 
