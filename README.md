@@ -34,15 +34,14 @@
 > Uma continua pesquisa de mercado para atender as tendências atuais, entender as expectativas e preferências dos clientes. 
 
 ## Valores
-1. Comprometimento com o cliente. 
-2. Qualidade nos serviços prestados.
-3. Integridade ao cliente.
-4. A valorização dos funcionários. 
-5. 
-6. 
-7.
+> 1. Comprometimento com o cliente. 
+> 2. Qualidade nos serviços prestados.
+> 3. Integridade ao cliente.
+> 4. A valorização dos funcionários. 
+> 5. Segurança de dados
+> 6. Equidade de gênero. 
+> 7. Agilidade no atendimento. 
+> 8. Relações seguras.
 
 ## Definição do projeto de Software 
-Resumo (3 linhas)
-Descrição detalhada do que o software fará, contendo Como o software funcionará? Quem é o usuário? Qual o diferencial? Por que o software é relevante? Em quais plataformas será lançado (ios, Android, Web)
-> Um aplicativo que permite o cliente agendar serviços de acordo com suas necessidades, recomendando prestadores de serviços com base em seu perfil e preferências. Os usuários podem selecionar e agendar facilmente, garantindo a disponibilidade com um pagamento antecipado. Casas. Serviços de urgência podem ser solicitados. Pois ofereceriam uma melhoria na eficiência operacional. Plataformas ios e Android.
+> Um aplicativo que permite o cliente agendar serviços de acordo com suas necessidades, recomendando prestadores de serviços com base em seu perfil e preferências, assim, os usuários podem selecionar e agendar facilmente o serviço, garantindo a disponibilidade com um pagamento antecipado. Seu principal usuário serão as residências. Seus diferencial é que serviços de urgência podem ser solicitados. Sua relevância ofereceria uma melhoria na eficiência operacional. Estará disponível para plataformas ios e Android.
